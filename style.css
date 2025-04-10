@@ -276,10 +276,10 @@ footer {
 		flex-direction: column;
 	}
 	#ad-1 {
-		height: 80px;
+		height: 5rem;
 	}
 	.ad-item {
-		height: 175px;
+		height: 12rem;
 	}
 	.lower-banner {
 		grid-template-columns: repeat(2, 1fr);
